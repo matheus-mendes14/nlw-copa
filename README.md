@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra alguns dos jogos da Copa de 2022.
+O Calendário da Copa é um projeto que mostra alguns dos jogos do Brasil na Copa de 2022.
 
 ## 🔖 Layout
 
